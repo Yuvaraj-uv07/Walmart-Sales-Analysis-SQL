@@ -1,6 +1,5 @@
 # Walmart Sales Analysis (SQL)
 
-**Project Duration:** Dec 2024 - Jan 2025  
 **Tools Used:** Microsoft SQL Server Studio
 
 ## Project Description
@@ -35,5 +34,5 @@ This project involves an in-depth analysis of Walmart's sales data using SQL. Th
 - Microsoft SQL Server Studio (or compatible SQL management software)
 - Sales dataset (included in the repository)
 
-### Conclusion
+## Conclusion
 This project offers insights into Walmart's sales performance and customer behavior, providing valuable recommendations for enhancing business growth and optimizing product offerings.
